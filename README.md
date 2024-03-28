@@ -28,8 +28,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I am a Epitech Rennes student 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I love cybersecurity and engineer level development.
 
 - :zap: In my free time, i am a first aid volunteer at Protection Civile Française.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-barbet-035a59238/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  
+</div>
