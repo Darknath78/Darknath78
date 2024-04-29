@@ -26,7 +26,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
-- :telescope: I am a Epitech Rennes student 
+- :telescope: I am a liberal developper
 
 - :seedling: I love cybersecurity and engineer level development.
 
