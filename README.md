@@ -60,11 +60,13 @@ Je conçois des solutions numériques sur mesure, allant du **développement d'a
 
 ## 📊 Statistiques GitHub
 
+## 📊 Statistiques GitHub
+
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Darknath78&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknath78&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Darknath78&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknath78&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Darknath78&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Darknath78&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
