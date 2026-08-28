@@ -27,7 +27,7 @@ Je conçois des solutions numériques sur mesure, allant du **développement d'a
 - 💻 **Développement Web & Applicatif** : Sites vitrines, e-commerce et applications sur mesure, performants et sécurisés.
 - 🔌 **Informatique Embarquée & IoT** : Microcontrôleurs (Arduino, ESP32) pour systèmes autonomes et objets connectés.
 - 🔧 **Conseil & Infrastructure** : Accompagnement technique, sécurité et optimisation d'infrastructures réseaux/informatiques.
-- 🌐 **Portfolio & Services** : Retrouvez l'ensemble de mes compétences sur [nathanbarbet.fr](https://nathanbarbet.fr/).
+- 🌐 **Portfolio & Services** : Retrouvez l'ensemble de mes projets sur [nathanbarbet.fr](https://nathanbarbet.fr/).
 
 ---
 
@@ -62,8 +62,8 @@ Je conçois des solutions numériques sur mesure, allant du **développement d'a
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Darknath78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknath78&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Darknath78&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknath78&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Darknath78&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
