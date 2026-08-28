@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=200&section=header&text=BARBET%20Nathan&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <a href="https://nathanbarbet.fr/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=60&lines=Développeur+Web+%26+Systèmes+Embarqués;Informatique+Embarquée+%26+IoT;Conseil+%26+Infrastructure;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -60,14 +61,13 @@ Je conçois des solutions numériques sur mesure, allant du **développement d'a
 
 ## 📊 Statistiques GitHub
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darknath78&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknath78&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
-  <br/><br/>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Darknath78&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Darknath78&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Darknath78&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
