@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=200&section=header&text=BARBET%20Nathan&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <a href="https://nathanbarbet.fr/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=60&lines=Développeur+Web+%26+Systèmes+Embarqués;Informatique+Embarquée+%26+IoT;Conseil+%26+Infrastructure;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
   </a>
 
   <p align="center">
