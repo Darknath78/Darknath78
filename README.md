@@ -1,50 +1,85 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<div align="center">
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nathan-barbet-035a59238/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=200&section=header&text=BARBET%20Nathan&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+
+  <a href="https://nathanbarbet.fr/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=60&lines=Développeur+Web+%26+Systèmes+Embarqués;Informatique+Embarquée+%26+IoT;Conseil+%26+Infrastructure;Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
   </a>
+
+  <p align="center">
+    <a href="https://nathanbarbet.fr/">
+      <img src="https://img.shields.io/badge/Website-nathanbarbet.fr-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/nathan-barbet-035a59238/">
+      <img src="https://img.shields.io/badge/LinkedIn-Nathan%20Barbet-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Darknath78&style=for-the-badge&color=00F0FF" alt="Profile Views" />
+  </p>
+
 </div>
+
+<br/>
+
+## 🚀 À propos de moi
+
+Je conçois des solutions numériques sur mesure, allant du **développement d'applications web** à la programmation de **systèmes embarqués et objets connectés**.
+
+- 💻 **Développement Web & Applicatif** : Sites vitrines, e-commerce et applications sur mesure, performants et sécurisés.
+- 🔌 **Informatique Embarquée & IoT** : Microcontrôleurs (Arduino, ESP32) pour systèmes autonomes et objets connectés.
+- 🔧 **Conseil & Infrastructure** : Accompagnement technique, sécurité et optimisation d'infrastructures réseaux/informatiques.
+- 🌐 **Portfolio & Services** : Retrouvez l'ensemble de mes compétences sur [nathanbarbet.fr](https://nathanbarbet.fr/).
+
+---
+
+## 🛠️ Outils & Technologies
+
+### 💻 Langages & Développement
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🔌 Hardware & IoT
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+</p>
+
+### 🧰 Environnement & Outils
+<p>
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+## 📊 Statistiques GitHub
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Darknath78&style=flat-square&color=blue" alt=""/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Darknath78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknath78&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Darknath78&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<h1 div align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+---
+
+## 📬 Me Contacter
+
+Une idée de projet, une question ou une proposition de collaboration ?
+
+<p align="center">
+  <a href="https://nathanbarbet.fr/">
+    <img src="https://img.shields.io/badge/Discutons_de_votre_projet-Visiter_le_site_web-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Contact" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <sub>© Nathan Barbet</sub>
 </div>
----
-
-### :man_technologist: About Me :
-
-I am a Developer/Cyber engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
-
-- :telescope: I am a liberal developper
-
-- :seedling: I love cybersecurity and engineer level development.
-
-- :zap: In my free time, i am a first aid volunteer at Protection Civile Française.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-barbet-035a59238/)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-</div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Darknath78&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darknath78&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
